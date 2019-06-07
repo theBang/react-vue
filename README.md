@@ -1,6 +1,5 @@
 # react-vue
-
-сайт для демонстрации
+# [react](e.html)
 
 <div class="cont"></div>
 <script src="./dist/main.js"></script>
